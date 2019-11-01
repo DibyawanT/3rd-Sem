@@ -9,7 +9,7 @@ int cqueue_arr[MAX];
 int front = -1;
 int rear = -1;
 
-/* Beginning of main() */
+// Beginning of main()
 int main()
 {
 	int choice, item;
